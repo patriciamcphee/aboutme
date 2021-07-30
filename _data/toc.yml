@@ -1,0 +1,31 @@
+- title: Documentation
+  url: docs
+  links:
+    - title: "Before/After Samples"
+      url: "docs/ux-writing-samples"
+      children:
+        - title: Group policies
+          url: "docs/ux-writing-samples#group-policies"
+        - title: How-to video scripts
+          url: "docs/ux-writing-samples#how-to-video-scripts"
+        - title: Mobile SDK release notes
+          url: "docs/ux-writing-samples#mobile-sdk-release-notes"
+    - title: "How-to Samples"
+      url: "docs/how-tos"
+    - title: "KB Article Samples"
+      url: "docs/kb-article-samples"
+      children:
+        - title: XenApp - Slow logon issues
+          url: "docs/kb-article-samples#xenapp-slow-logon-issues"
+        - title: Routing error on outbound shipment
+          url: "docs/kb-article-samples#routing-error-when-confirming-outbound-shipment"
+    - title: "Quick Start Guide Samples"
+      url: "docs/quick-start-mobile-sdk-android"
+    - title: "Other Writing Samples"
+      url: "news"
+    - title: "Information Architect Samples"
+      url: "docs/info-architect"
+    - title: Tags Page
+      url: "tags"
+
+
