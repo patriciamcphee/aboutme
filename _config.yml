@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Writing Samples
+title: Patricia McPhee's writing samples
 email: hi@patriciamcphee.com
 author: Patricia McPhee
 description: > # this means to ignore newlines until "baseurl:"
-  Hi! I'm Patricia McPhee, and I am passionate about creating content experiences that help people achieve more with technology.
+  Hi! I'm Patricia McPhee.  I have 25 years of experience creating scenario and goal-based content to help IT professionals achieve more with technology. I’m passionate about bringing stale or unusable content back to life by taking the guesswork out of complex technical content.
 
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
 baseurl: "/" # the subpath of your site, e.g. /blog
