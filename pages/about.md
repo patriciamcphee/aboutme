@@ -8,7 +8,7 @@ permalink: /about/
 I have a vast array of writing experience as well as instructional design, visual design, video production, and voice over. My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am a self-driven Sr. Technical UX Writer with a degree and strong background in computer networking and system administration, and more than 20 years in the tech industry. Over the last ten years, I have helped organizations reduce, simplify, and restructure their content, ensuring quality and accuracy, and increasing overall customer satisfaction rates.  Why am I now becoming disenchanted by this unsuccessful career. I will never be able to drive change in this industry.  Sad, really.
 
 ## Patricia McPhee 
->Sr. Technical Writer \| Voiceover Professional<br /> 
+>Sr. Technical Writer \| [Voiceover Professional](#voice-over-demos)<br /> 
 > *I am passionate about creating content experiences that help IT Pros achieve more with the technology they use.*
 
 - [Accomplishments](#accomplishments)
@@ -174,11 +174,11 @@ Wrote provisioning procedures in an online help format for field technicians in 
 #### Remote, flexible work experience \| 95%
 - Focus and time management
 - Proactive communication
-- Troubleshooting
+- Critical thinking and troubleshooting
 - Growth mindset
 - Comfortable with digital communication
-- Video conferencing: MS Teams, Skype, Google Hangouts, Zoom, Slack
-- Instant messaging: Skype, Slack, Google Chat, MS Teams
+- Video conferencing: Microsoft Teams, Zoom
+- Instant messaging: Slack, Microsoft Teams
 - File sharing: Google Drive, Box, Dropbox, OneDrive
 
 ### Training and education
@@ -191,17 +191,17 @@ March 2019 - March 2020
 ##### Voice over demos
 
 - [Commercial Reel](https://soundcloud.com/patriciamcphee/patti-short_n3)
-- 
+ 
 - [Narration Reel](https://soundcloud.com/patriciamcphee/patti-short_n4)
-- 
+
 - [What is a stackable switch - Narration](https://soundcloud.com/patriciamcphee/what-is-a-stablable-switch)
-- 
+ 
 - [Wellness Spot - Commercial](https://soundcloud.com/patriciamcphee/wellness-commercial)
 
 
 
 ##### Niche: 
-- Technical (computer networking, software, cloud storage)
+- Technical (computer networking, software, cloud solutions)
 - Corporate (presentations, training, e-learning)
 - Narration (informational, textbooks)
 - Medical (hand/wrist anatomy and health conditions, environmental health, public health)
