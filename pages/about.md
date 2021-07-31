@@ -29,6 +29,17 @@ I have a vast array of writing experience as well as instructional design, visua
 - Built a _**custom**_ authoring environment in MadCap Flare and converted legacy content for several large corporations to maximize content reuse and to reduce the cost of creating, managing, and publishing content.
 
 ### Work Experience
+
+#### Contract Technical Writer 
+
+**Microsoft**<br /> 
+100% remote <br /> 
+May 2020 - Present 
+
+Azure Dedicated technical writing working on the [Azure VMware Solution](https://docs.microsoft.com/en-us/azure/azure-vmware/introduction) service. Work in close collaboration with development, design, and project management teams.
+
+
+
 #### Freelance Technical Writer and Voiceover Professional
 Remote
 July 2019 - June 2021 
@@ -40,13 +51,7 @@ July 2019 - June 2021
 | [**ZPE Systems**](https://www.zpesystems.com)<br />Freelance Network Content Writer<br />100% remote<br />September 2019 - January 2020 | - Wrote an eBook for a marketing [campaign](https://www.zpesystems.com/resources/media-library/ebooks-whitepapers/how-automation-transforms-the-datacenter-landscape/) called "How Automation is Transforming the Datacenter Landscape"<br>- Wrote video scripts, provided the voice over, and did the final video production for pre-recorded screen capture how-to videos. |
 | [**WAX.io**](https://wax.io/)<br />Freelance Technical Marketing Writer<br />100% remote<br />July 2019 - August 2019 | Wrote a blog article called "What is NET, CPU and RAM on the WAX Blockchain?". |
 
-#### Contract Technical Writer 
 
-**Microsoft**<br /> 
-100% remote <br /> 
-May 2020 - Present 
-
-Azure Dedicated technical writing working on the [Azure VMware Solution](https://docs.microsoft.com/en-us/azure/azure-vmware/introduction) service. Work in close collaboration with development, design, and project management teams.
 
 
 #### Technical Writer II
