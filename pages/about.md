@@ -12,8 +12,11 @@ I have a vast array of writing experience as well as instructional design, visua
 > *I am passionate about creating content experiences that help IT Pros achieve more with the technology they use.*
 
 - [Accomplishments](#accomplishments)
+
 - [Work Experience](#work-experience)
+
 - [Skills](#skills)
+
 - [Training and education](#training-and-education)
 
 
