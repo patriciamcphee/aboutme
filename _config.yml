@@ -18,7 +18,7 @@ title: Writing Samples
 email: hi@patriciamcphee.com
 author: Patricia McPhee
 description: > # this means to ignore newlines until "baseurl:"
-  Hi! I'm Patti Short, and I am passionate about creating content experiences that help people achieve more with technology.
+  Hi! I'm Patricia McPhee, and I am passionate about creating content experiences that help people achieve more with technology.
 
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
 baseurl: "/" # the subpath of your site, e.g. /blog
