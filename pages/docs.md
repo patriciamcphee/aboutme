@@ -6,7 +6,7 @@ permalink: /docs/
 
 # Technical Documentation
 
-Welcome to my **{{ site.title }}** document library! Here you can quickly jump to a particular page.
+Welcome to my **{{ site.title }}** writing samples! Here you can quickly jump to a particular page.
 
 <div class="section-index">
     <hr class="panel-line">
@@ -20,8 +20,6 @@ Welcome to my **{{ site.title }}** document library! Here you can quickly jump t
 >If you're looking for more creative writing samples, go to the [Other Writing Samples](news.md) page.  I'm currently curating different types of articles ranging from:
 >- CMC Joint Arthritis (Basilar Thumb Arthritis)
 >- Herbs: Benefits and Remedies
->- Unaweep Tabeguache Scenic Byway
 >- What can I do with Comfrey Leaf?
->- The difference between writing Group Policy features and API features
 >
 >...and more to come this year!  Keep checking back.

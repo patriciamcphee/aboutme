@@ -32,27 +32,25 @@ If you have a world-class product, a weak script sabotages your video, making it
 
 - **Define your message.** Start by making a creative brief to establish the audience, goals, problems, solutions, and the proper tone. Next, you'll want to start with the actual words. This is necessary to help tailor the message. Be straight forward and confident in your message. Keep these things in mind when defining your message:
 
-    1.  Why the video, and what's your angle? Don't make a video for the fun of it. Know your goal because you're either filling in an information gap or expanding your viewer's knowledge. HOW are you making life easier for them?
+    1.  Why the video, and what's your angle? Don't make a video for the fun of it. Know your goal because you're either filling in an information gap or expanding your viewer's knowledge. **How** are you making life easier for them?
 
     2.  Why will the viewer care? What are their pain points? What are they trying to solve?
 
     3.  Anticipate the viewer's questions and make sure they get answered.
 
-    4.  What value will this provide to the viewer?
+    4.  What value will this video provide to the viewer?
 
-    5.  What should the viewer take away from this video? Your conclusion should have an impact. If your video is sharp up until a shrug of a closer, all your work will be for nothing. You shouldn't end with an overtly sales-based message, but instead, there should be a final takeaway.
+    5.  What should the viewer take away from this video? Your conclusion should have an impact. If your video is sharp up until a shrug of a closer, all your work will be for nothing. You shouldn't end with an overtly sales-based message, but instead, there should be a final takeaway. 
 
 - **Communicate your brand.** If you're only mentioning features in your video, then you're just playing it safe. Your viewers want to know how things impact them. Even if it's common sense, tell the viewer about how your product or idea benefits **them**. Consider what you'd like to hear if "you" were the customer. You're positioning the product as the "Secret Sauce" to solve or prevent the problem. After you put in the secret sauce, explain "Why" it works.
 
-- **Work with a professional scriptwriter.** The script is the message of the video; it's what you want to tell and transmit in the video.
-    The writer helps "engage" the right audience and make them want to learn more (and keep on watching). The writer also helps keep the length of video
-    at just the right length; the longer the video, the more view drops it's likely to have.
+- **Work with a professional scriptwriter.** The script is the message of the video; it's what you want to tell and transmit in the video. The writer helps "engage" the right audience and make them want to learn more (and keep on watching). The writer also helps keep the length of video at just the right length; the longer the video, the more view drops it's likely to have.
 
 ### 2. High-quality video recordings
 
 You can record anything and everything on your screen, but it can end up as a not-so-great viewing experience. We get that not everyone uses the same  recording software, but here are a few things to ensure consistency for the best recording quality and viewing experience:
 
-- **Set up your desktop recording area and your recording software.** Do not record "full screen" because it can record at a "not-so-great" aspect ratio.   Recording at 1280x720 may seem small, but it's considered HD, plus it's the recommended size for YouTube videos.
+- **Set up your desktop recording area and your recording software.** Do not record "full screen" because it can record at a "not-so-great" aspect ratio.  Recording at 1280x720 may seem small, but it's considered HD, plus it's the recommended size for YouTube videos.
 
   ![16:9 ratio](https://www.pscmdesigns.com/images/16-9-ratio.png) 
 
@@ -105,7 +103,7 @@ Your videos say a lot about your company and the way you do business. And people
 
 ### 4. Include a call-to-action: 
 
-People need a prompt, even if it's as simple as a nudge to visit the website or share it with colleagues.
+People need a prompt, even if it's as simple as a nudge to visit the website, share it with colleagues, or direct them to the product documentation.
 
 ## Final thoughts
 
