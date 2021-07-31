@@ -21,10 +21,10 @@ description: > # this means to ignore newlines until "baseurl:"
   Hi! I'm Patti Short, and I am passionate about creating content experiences that help people achieve more with technology.
 
 # DO NOT CHANGE THE LINE OF THIS FILE without editing .circleci/circle_urls.sh
-baseurl: "/aboutme" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://shortpatti.github.io" # the base hostname & protocol for your site
+url: "https://patriciamcphee.github.io" # the base hostname & protocol for your site
 
 # Social (First three Required)
 repo: "https://github.com/patriciamcphee/aboutme"
@@ -45,7 +45,7 @@ feedback: true
 # Image and (square) dimension for logo (don't start with /)
 # If commented, will use material hat theme
 # logo: "assets/img/logo/SRCC-square-red.png"
-logo_pixels: 64
+logo_pixels: 124
 color: "#326173"
 # color: "#8c1515" # primary color for header, buttons
 
