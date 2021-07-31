@@ -49,7 +49,7 @@ July 2019 - June 2021
 | ------- | --------------- |
 | [**Extreme Networks**](https://www.extremenetworks.com)<br />Technical Writer<br />100% remote<br />September 2020 - May 2021 | Reviewed and edited network hardware content for the FIPS program. Wrote shell scripts to automate API content publishing. |
 | [**Netdata**](https://www.netdata.cloud)<br />Technical Writer<br />100% remote<br />February 2020 - April 2020 | Wrote product content for a Linux server performance tool. |
-| [**ZPE Systems**](https://www.zpesystems.com)<br />Freelance Network Content Writer<br />100% remote<br />September 2019 - January 2020 | Wrote a marketing campaign [eBook](../assets/pdf/eBook-sample.pdf) on automating the data center. Wrote video scripts, provided the voiceover, and produced how-to videos. | 
+| [**ZPE Systems**](https://www.zpesystems.com)<br />Freelance Network Content Writer<br />100% remote<br />September 2019 - January 2020 | Wrote a marketing campaign eBook on automating the data center. Wrote video scripts, provided the voiceover, and produced how-to videos. | 
 | [**WAX.io**](https://wax.io/)<br />Freelance Technical Marketing Writer<br />100% remote<br />July 2019 - August 2019 | Contributed to blockchain blog articles. |
 
 
