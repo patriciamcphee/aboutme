@@ -7,7 +7,7 @@ permalink: /about/
 
 I have a vast array of writing experience as well as instructional design, visual design, video production, and voice over. My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am a self-driven Sr. Technical UX Writer with a degree and strong background in computer networking and system administration, and more than 20 years in the tech industry. Over the last ten years, I have helped organizations reduce, simplify, and restructure their content, ensuring quality and accuracy, and increasing overall customer satisfaction rates.  Why am I now becoming disenchanted by this unsuccessful career. I will never be able to drive change in this industry.  Sad, really.
 
-## Patti Short 
+## Patricia McPhee 
 >Sr. Technical Writer \| Voiceover Professional<br /> 
 > *I am passionate about creating content experiences that help IT Pros achieve more with the technology they use.*
 
@@ -183,10 +183,18 @@ Wrote provisioning procedures in an online help format for field technicians in 
 
 ### Training and education
 
-#### [Voice over acting](https://www.pattishortvo.com) 
-Such A Voice - Remote <br />
+#### Voice over acting
+Such A Voice <br />
 Coach: [Jan Haley-Soule](https://www.imdb.com/name/nm1695988/) <br />
 March 2019 - March 2020
+
+##### Voice over demos
+
+![Commercial Reel](assets/audio/Patti-Short_C4.mp3)
+![Narration Reel](assets/audio/Patti-Short_N4.mp3)
+![Wellness Spot](assets/audio/explainer-videos.mp3)
+
+
 
 ##### Niche: 
 - Technical (computer networking, software, cloud storage)
