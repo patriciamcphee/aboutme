@@ -190,9 +190,10 @@ March 2019 - March 2020
 
 ##### Voice over demos
 
-![Commercial Reel](assets/audio/Patti-Short_C4.mp3)
-![Narration Reel](assets/audio/Patti-Short_N4.mp3)
-![Wellness Spot](assets/audio/explainer-videos.mp3)
+[Commercial Reel](https://soundcloud.com/patriciamcphee/patti-short_n3)
+[Narration Reel](https://soundcloud.com/patriciamcphee/patti-short_n4)
+[What is a stackable switch - Narration](https://soundcloud.com/patriciamcphee/what-is-a-stablable-switch)
+[Wellness Spot - Commercial](https://soundcloud.com/patriciamcphee/wellness-commercial)
 
 
 
