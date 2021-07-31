@@ -5,7 +5,7 @@ permalink: /about/
 
 # About
 
-I have a vast array of writing experience as well as instructional design, visual design, video production, and voice over. My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am a self-driven Sr. Technical UX Writer with a degree and strong background in computer networking and system administration, and more than 20 years in the tech industry. Over the last ten years, I have helped organizations reduce, simplify, and restructure their content, ensuring quality and accuracy, and increasing overall customer satisfaction rates.  Why am I now becoming disenchanted by this unsuccessful career. I will never be able to drive change in this industry.  Sad, really.
+I have a vast array of writing experience as well as instructional design, visual design, video production, and voice over. My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am a self-driven Sr. Technical UX Writer with a degree and strong background in computer networking and system administration, and more than 20 years in the tech industry. Over the last ten years, I have helped organizations reduce, simplify, and restructure their content, ensuring quality and accuracy, and increasing overall customer satisfaction rates.  
 
 ## Patricia McPhee 
 >Sr. Technical Writer \| [Voiceover Professional](#voice-over-demos)<br /> 
