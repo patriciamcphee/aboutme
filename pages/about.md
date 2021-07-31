@@ -28,7 +28,7 @@ I have a vast array of writing experience as well as instructional design, visua
 ### Work Experience
 #### Freelance Technical Writer and Voiceover Professional
 Remote
-July 2019 - Present 
+July 2019 - June 2021 
 
 | Project | Job Description |
 | ------- | --------------- |
