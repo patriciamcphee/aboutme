@@ -5,7 +5,7 @@ permalink: /about/
 
 # About
 
-I have a vast array of writing experience as well as instructional design, visual design, video production, and voice over. My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am a self-driven Sr. Technical UX Writer with a degree and strong background in computer networking and system administration, and more than 20 years in the tech industry. Over the last ten years, I have helped organizations reduce, simplify, and restructure their content, ensuring quality and accuracy, and increasing overall customer satisfaction rates.  
+I have a vast array of writing experience as well as instructional design, visual design, video production, and voice over. My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am a self-driven Sr. Technical Writer with a degree and strong background in computer networking and system administration, and more than 20 years in the tech industry. Over the last ten years, I have helped organizations reduce, simplify, and restructure their content, ensuring quality and accuracy, and increasing overall customer satisfaction rates.  
 
 ## Patricia McPhee 
 >Sr. Technical Writer \| [Voiceover Professional](#voice-over-demos)<br /> 
@@ -20,21 +20,25 @@ I have a vast array of writing experience as well as instructional design, visua
 
 ### Accomplishments 
 
-- Wrote shell scripts to automate OpenAPI content publishing for Extreme Networks.
+- Wrote shell scripts to automate API content publishing for Extreme Networks.
+
+- Built custom MadCap Flare authoring environments for GE Healthcare, Amazon, and SolidFire. Converted legacy documentation created in Microsoft Word to maximize content reuse to help reduce the cost of creating, managing, and publishing content.
+
+- Co-authoried Excel 2010 in Simple Steps. ISBN: 0-27-373613-2
+
 - Streamlined a weekly team status report for the Amazon executive team, reducing the time to compile and deliver the report by ~4 hours (more than half).
-- Rewrote a decades-old installation/upgrade guide for the GE Healthcare customers and support team, reducing the time to install/upgrade, data loss or corruption, and support calls.
-- Built a _**custom**_ authoring environment in MadCap Flare and converted legacy content for several large corporations to maximize content reuse and to reduce the cost of creating, managing, and publishing content.
+
+
 
 ### Work Experience
 
-#### Contract Technical Writer 
+#### Technical Writer, Contractor 
 
 **Microsoft**<br /> 
 100% remote <br /> 
 May 2020 - Present 
 
-Azure Dedicated technical writing working on the [Azure VMware Solution](https://docs.microsoft.com/en-us/azure/azure-vmware/introduction) service. Work in close collaboration with development, design, and project management teams.
-
+Work collaboratively with the [Azure VMware Solution](https://docs.microsoft.com/en-us/azure/azure-vmware/introduction) core engineering and UX Research teams to develop scenario and goal-based content. Conduct content audits of existing content to identify areas for improvement. Use qualitative and quantitative data to make data-driven decisions.
 
 
 #### Freelance Technical Writer and Voiceover Professional
@@ -43,12 +47,10 @@ July 2019 - June 2021
 
 | Project | Job Description |
 | ------- | --------------- |
-| [**Extreme Networks**](https://www.extremenetworks.com)<br />Technical Writer<br />100% remote<br />September 2020 - May 2021 | Write and edit network hardware content in DITA for their Federal Information Processing Standards (FIPS) program. Write shell scripts to automate API content publishing. |
-| [**Netdata**](https://www.netdata.cloud)<br />Technical Writer<br />100% remote<br />February 2020 - April 2020 | Wrote product documentation for their open-source, real-time Linux server performance monitoring solution. |
-| [**ZPE Systems**](https://www.zpesystems.com)<br />Freelance Network Content Writer<br />100% remote<br />September 2019 - January 2020 | - Wrote an eBook for a marketing [campaign](https://www.zpesystems.com/resources/media-library/ebooks-whitepapers/how-automation-transforms-the-datacenter-landscape/) called "How Automation is Transforming the Datacenter Landscape"<br>- Wrote video scripts, provided the voice over, and did the final video production for pre-recorded screen capture how-to videos. |
-| [**WAX.io**](https://wax.io/)<br />Freelance Technical Marketing Writer<br />100% remote<br />July 2019 - August 2019 | Wrote a blog article called "What is NET, CPU and RAM on the WAX Blockchain?". |
-
-
+| [**Extreme Networks**](https://www.extremenetworks.com)<br />Technical Writer<br />100% remote<br />September 2020 - May 2021 | Reviewed and edited network hardware content for the FIPS program. Wrote shell scripts to automate API content publishing. |
+| [**Netdata**](https://www.netdata.cloud)<br />Technical Writer<br />100% remote<br />February 2020 - April 2020 | Wrote product content for a Linux server performance tool. |
+| [**ZPE Systems**](https://www.zpesystems.com)<br />Freelance Network Content Writer<br />100% remote<br />September 2019 - January 2020 | Wrote a marketing campaign eBook on automating the data center. Wrote video scripts, provided the voiceover, and produced how-to videos. |
+| [**WAX.io**](https://wax.io/)<br />Freelance Technical Marketing Writer<br />100% remote<br />July 2019 - August 2019 | Contributed to blockchain blog articles. |
 
 
 #### Technical Writer II
@@ -57,7 +59,7 @@ July 2019 - June 2021
 Seattle, WA and remote <br /> 
 March 2019 - June 2019 
 
-Worked with the Android and iOS development team to rewrite the SDK and API guides for mobile messaging.
+Wrote SDK and API guides for mobile messaging app.
 
 
 #### Technical Writer II 
@@ -65,83 +67,69 @@ Worked with the Android and iOS development team to rewrite the SDK and API guid
 Redmond, WA and remote <br /> 
 January 2018 to January 2019
 
-- Worked with the Microsoft Edge development team to rewrite the [Microsoft Edge (Legacy) deployment group policies](https://docs.microsoft.com/en-us/microsoft-edge/deploy/available-policies). 
-- Worked with the networking team to update the [Always On VPN](https://docs.microsoft.com/en-us/windows-server/remote/remote-access/vpn/always-on-vpn/deploy/always-on-vpn-deploy-deployment) and other networking content.
+Worked collaboratively with the Microsoft Edge and Windows networking core teams. Conducted content audits to identify areas for potential improvement. Used qualitative and quantitative data to make data-driven decisions.
 
-
-#### Contract Research Librarian &amp; Technical Writer 
+#### Technical Writer, Contractor 
 **Oculus VR, *a Facebook company*** <br /> 
 Redmond, WA <br /> 
 July 2017 to December 2017 
 
-- Developed cross-functional workflows and process documentation for the Mechanical and Electrical Engineers in a Virtual Reality R&D environment. 
-- Managed all controlled documentation, such as SOWs, CAD drawings, and SOPs.
+Developed internal cross-functional workflows and process documentation for a virtual reality R&D environment.
 
 
-#### Software Technical Writer & MadCap Flare Conversion Specialist
+#### Software Technical Writer 
 **GE Healthcare** <br /> 
 Seattle, WA and remote <br /> 
 August 2016 to May 2017 
 
-Collaborated with developers and customers to rewrite an outdated installation/upgrade guide, reducing data loss or corruption as well as support calls.
+Worked collaboratively with customers and support to update the outdated installation and upgrade guides. The rework resulted in more successful upgrades and reduced customer support calls.
 
 
-#### Technical Writer II & MadCap Flare Conversion Specialist
+#### Technical Writer II 
 **Amazon** <br /> 
 Seattle, WA and remote <br /> 
 September 2015 to July 2016 
 
-Wrote feature announcements and task-oriented guides for the employees at the Amazon Fulfillment Centers (FCs). 
+Wrote internal feature announcements and task-oriented procedure guides for warehouse employees.
 
 
-#### Contract Technical Writer &amp; System Admin 
+#### Technical Writer &amp; System Admin, Contractor 
 **Charter Communications** <br /> 
 Greenwood Village, CO <br /> 
 March 2015 to September 2015 
 
-- Collaborated with principle video-on-demand (VOD) and network engineers on Method of Procedures documentation.
-- Wrote Python scripts for system administration tasks.
+Worked collaboratively with video-on-demand and networking engineers to write standard procedures. Wrote Python scripts for system administration tasks.
 
 
-#### MadCap Flare Conversion Specialist 
-Superior, CO <br /> 
-October 2014 to December 2014 
-
-Trained technical writers and instructional designers to use and customize MadCap Flare.
-
-
-#### Technical Writer & MadCap Flare Conversion Specialist
+#### Technical Writer 
 **SolidFire, *a NetApp company*** <br /> 
 Boulder, CO <br /> 
 January 2014 to October 2014 
 
-- Wrote release notes, API guides, user guides, and online help for the support team, field technicians, developers, and customers. 
-- Contributed and edited content for white papers, best practice articles, and solution briefs for the cloud storage solution.
+Wrote release notes, configuration and troubleshooting guides, white papers, and solution briefs for the cloud storage solution.
 
 
-#### Contract Technical Writer 
+#### Technical Writer, Contractor 
 **Sybase, *an SAP company*** <br /> 
 Broomfield, CO <br /> 
 December 2012 to November 2013 
 
-- Wrote installation, configuration, and API guides on the Sybase Money Mobiliser Platform for developers, support, and customers. 
-- Worked closely with software developers (Java), project managers, and product architects.
+Wrote installation, configuration, and API guides for a mobile money app.
 
 
 #### Technical Writing Consultant 
-Arvada, CO and remote <br /> 
+Remote <br /> 
 July 2012 to January 2013 
 
-- Wrote design specifications for the enterprise planning and budgeting software. 
-- Restructured the instructor-led training to include scenario-based, hands-on exercises and review questions for general users and IT personnel.
+Wrote design specifications and instructor-led training guides for enterprise planning and budgeting software.
 
 
-#### Contract Sr. Technical Writer & MadCap Flare Conversion Specialist
+#### Sr. Technical Writer, Contractor
 **Level 3 Communications, *a CenturyLink company*** <br /> 
 Broomfield, CO <br /> 
 August 2011 to July 2012 
 
-Wrote provisioning procedures in an online help format for field technicians in the fiber optic cable industry.
+Wrote fiber optic provisioning procedures for field technicians.
 
 
 ### Skills
@@ -176,15 +164,15 @@ Wrote provisioning procedures in an online help format for field technicians in 
 - JavaScript \| 30%
 - Python \| 20%
 
-#### Remote, flexible work experience \| 95%
+#### Remote, flexible work experience \| 100%
 - Focus and time management
 - Proactive communication
 - Critical thinking and troubleshooting
 - Growth mindset
 - Comfortable with digital communication
 - Video conferencing: Microsoft Teams, Zoom
-- Instant messaging: Slack, Microsoft Teams
-- File sharing: Google Drive, Box, Dropbox, OneDrive
+- Instant messaging: Microsoft Teams, Slack
+- File sharing: OneDrive, Google Drive, Box, Dropbox
 
 ### Training and education
 
@@ -196,9 +184,9 @@ March 2019 - March 2020
 
 ##### Voice over demos
 
-- [Commercial Reel](https://soundcloud.com/patriciamcphee/patti-short_c4)
+- [Commercial Reel](https://soundcloud.com/patriciamcphee/patti-short_c4) *Professionally produced*
  
-- [Narration Reel](https://soundcloud.com/patriciamcphee/patti-short_n4)
+- [Narration Reel](https://soundcloud.com/patriciamcphee/patti-short_n4) *Professionally produced*
 
 - [What is a stackable switch - Narration](https://soundcloud.com/patriciamcphee/what-is-a-stablable-switch)
  
