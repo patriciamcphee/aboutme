@@ -188,6 +188,7 @@ Such A Voice <br />
 Coach: [Jan Haley-Soule](https://www.imdb.com/name/nm1695988/) <br />
 March 2019 - March 2020
 
+
 ##### Voice over demos
 
 - [Commercial Reel](https://soundcloud.com/patriciamcphee/patti-short_n3)
