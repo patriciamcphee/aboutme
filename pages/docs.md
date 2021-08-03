@@ -6,7 +6,7 @@ permalink: /docs/
 
 # Technical Documentation
 
-Welcome to my **{{ site.title }}** writing samples! Here you can quickly jump to a particular page.
+Welcome to **{{ site.title }}** writing samples! Here you can quickly jump to a particular page.
 
 <div class="section-index">
     <hr class="panel-line">
