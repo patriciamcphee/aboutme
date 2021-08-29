@@ -5,9 +5,9 @@ permalink: /about/
 
 # About
 
-I have a vast array of writing experience as well as instructional design, visual design, video production, and voice over. I'm a self-driven senior-level Content Developer/Technical Writer with a strong technical background. I have a degree in computer networking and system administration with more than 20 years of experience in the industry. 
+I have a vast array of writing experience, instructional design, visual design, video production, and voice-over. I'm a self-driven senior-level Content Developer/Technical Writer with a solid technical background. I have a degree in computer networking and system administration with more than 20 years of experience in the industry. 
 
-My expertise is in taking the guesswork out of complex technical content for busy IT professionals.  I have helped organizations reduce, simplify, and restructure their content, ensuring quality and accuracy, and increasing overall customer satisfaction rates. I'm also comfortable managing multiple projects and meeting schedule milestones and deadlines.
+My expertise is in taking the guesswork out of complex technical content for busy IT professionals.  I have helped organizations reduce, simplify, and restructure their content, ensuring quality and accuracy and increasing overall customer satisfaction rates. I'm also comfortable managing multiple projects and meeting schedule milestones and deadlines.
 
 ## Patricia McPhee 
 >[Sr. Technical Writer](../assets/pdf/resume-patricia-mcphee.pdf) \| [Voiceover Professional](https://soundcloud.com/patriciamcphee/tracks)<br /> 
@@ -26,7 +26,7 @@ My expertise is in taking the guesswork out of complex technical content for bus
 
 - Built custom MadCap Flare authoring environments for GE Healthcare, Amazon, and SolidFire. Converted legacy documentation created in Microsoft Word to maximize content reuse to help reduce the cost of creating, managing, and publishing content.
 
-- Co-authoried Excel 2010 in Simple Steps. ISBN: 0-27-373613-2
+- Co-authored Excel 2010 in Simple Steps. ISBN: 0-27-373613-2
 
 - Streamlined a weekly team status report for the Amazon executive team, reducing the time to compile and deliver the report by ~4 hours (more than half).
 
