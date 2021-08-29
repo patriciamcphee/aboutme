@@ -10,7 +10,7 @@ description: Knowledgebase articles solve issues with products or services. Cust
 
 >**Project:**  Work-related - Mobile Messaging SDK <br>
 >**Description:**  I was tasked to rework the developer documentation, specifically the Mobile SDK Quick Start Guide.<br>
->**Date of rewrite:** June 2019 
+>**Date of the rewrite:** June 2019 
 
 <hr />
 
@@ -86,11 +86,11 @@ You can use Gradle, an automation tool, to scale your projects effortlessly.
 
 1. [Download]() the latest SDK package.
 
-2. Extract the file to a folder on your computer. The package contains all of the files you need to add to your project. Also in the package, you get a sample app that demonstrates how to use the SDK.
+2. Extract the file to a folder on your computer. The package contains all of the files you need to add to your project. Also, in the package, you get a sample app that demonstrates how to use the SDK.
 
 3. In your Android Studio project, go to **File \> New \> Import module**.
 
-4. Navigate to the folder where you extracted the SDK, select the **messaging_sdk module**, and then click **Finish**.
+4. Navigate to the folder where you extracted the SDK, select the **messaging_sdk module**, and click **Finish**.
 
 5. In your **build.gradle** of your app, and in the android section, make sure  the *compileSdkVersion* is at least version **26**:
 
@@ -174,13 +174,13 @@ You can use Gradle, an automation tool, to scale your projects effortlessly.
 
 9. In your **settings.gradle** of your app, add:
 
-    ```java
+    "`java
     include ":messaging_sdk"
     ```
 
 ### Step 2: Integrate code for deployment
 
-1. Add permissions to your app’s AndroidManifest.xml file:
+1. Add permissions to your app's AndroidManifest.xml file:
 
    ```xml
     <uses-permission android:name="android.permission.INTERNET" />
@@ -202,11 +202,11 @@ You can use Gradle, an automation tool, to scale your projects effortlessly.
 
 Before you can show a conversation, you must initialize the Messaging SDK.
 
-{% include alert.html type="info" title="Note" content="If you want to use the Monitoring API, you must initialize the Messaging SDK with Monitoring Params." %}
+{% include alert.html type=" info" title=" Note" content=" If you want to use the Monitoring API, you must initialize the Messaging SDK with Monitoring Params." %}
 
 
 
-1. **Set your app ID and view controller.** Provide your APP_ID as a string your application's class.
+1. **Set your app ID and view controller.** Provide your APP_ID as a string in your application's class.
 
    ```java
     private static final String APP_ID = "com.mybrand.app";
@@ -221,7 +221,7 @@ Before you can show a conversation, you must initialize the Messaging SDK.
 2. **Select your choice of authentication** for initializing the SDK instance:
 
    - [Code Flow]() (authenticated)
-     The back-end verifies the authentication token sent by the SDK with your system servers. If the key cannot be verified on your company’s
+     The backend verifies the authentication token sent by the SDK with your system servers. If the key can't be verified on your company's
 backend servers, this call fails.
 
      ```java
@@ -256,8 +256,7 @@ backend servers, this call fails.
      String brandID = "62219232";
      ```
 
-3. **Show the conversation view.** If your system implementation involves an authentication step, you must call our showConversation method provided by
-    the LPMessagingSDK instance. It pushes a new navigation stack containing the conversation view. Choose an authentication method:
+3. **Show the conversation view.** If your system implementation involves an authentication step, you must call our showConversation method provided by the LPMessagingSDK instance. It pushes a new navigation stack containing the conversation view. Choose an authentication method:
 
     - **Activity mode**
  
@@ -271,12 +270,10 @@ backend servers, this call fails.
       pscmdesigns.getConversationFragment(LPAuthenticationParams lpAuthenticationParams, ConversationViewParams params‎);
       ```
 
-      When using fragment mode, you could use the provided SDK callbacks in your app in order to implement functionalities such as menu items, action bar
+      When using fragment mode, you could use the provided SDK callbacks in your app to implement functionalities such as menu items, action bar
 indications, agent name, and typing indicator.
 
-4. **Initialize your application.** We have provided examples to use to help
-    you get started. The demo account has basic features available for
-    demonstrating the Conversational Commerce experience in the LiveEngage
+4. **Initialize your application.** We have provided examples to use to help you get started. The demo account has basic features available for demonstrating the Conversational Commerce experience in the LiveEngage
     console.
 
     - **CodeFlow**
@@ -361,8 +358,8 @@ indications, agent name, and typing indicator.
 
 | **Element**       | **Description**     |
 |-------------------|--------------------------|
-| **brandID**       | Your account ID. If you don’t have one, please contact your representative.        |
-| **APP_ID**        | Your application ID (com.mybrand.app), which is used in the `registerLPPusher` method. |
+| **brandID**       | Your account ID. If you don't have one, contact your representative.        |
+| **APP_ID**        | Your application ID (com.mybrand.app) is used in the `registerLPPusher` method. |
 | **onInitSuccess** | Callback that indicates the init process has finished successfully.        |
 | **onInitFailed**  | Callback that indicates the init process has failed.     |
 
@@ -394,7 +391,7 @@ public void startCodeFlow(View v) {
 }
 ```
 
-{% include alert.html type="warning" title="Important" content="Make sure that the init process, from the onInitSucceed callback, finished successfully." %}
+{% include alert.html type= "warning" title= "Important" content= "Make sure that the init process, from the onInitSucceed callback, finished successfully." %}
 
 
 ### Next Steps
@@ -404,7 +401,7 @@ Congratulations! You're all set.
 You can now do any of the following:
 
 -   [Configure push notifications]().
-    Push and local notifications are a key factor that makes the experience better for consumers - they never have to stay in your app or keep the window open as they will get a proactive notification as soon as a reply or notice is available.
+    Push and local notifications are a key factor that makes the experience better for consumers. They never have to stay in your app or keep the window open as they'll get a proactive notification as soon as a reply or notice is available.
 
 -   [Enable features in your AndroidManifest.xml file]().
-    If you had your account team or support enable vibrate on new message, photo sharing, or audio messaging, you must add these features to your app's AndroidManifest.xml file.
+    If your account team or support enabled vibrate on new message, photo sharing, or audio messaging, you must add these features to your app's AndroidManifest.xml file.

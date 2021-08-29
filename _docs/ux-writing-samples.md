@@ -6,13 +6,13 @@ tags:
   - group policies
   - release notes
   - before/after
-description: UX Writing is the production of written content that becomes part of, and supports, a product's user experience. My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am passionate about creating content experiences that help IT Pros achieve more with technology. Please take a look at the before and after samples, and you be the judge.
+description: UX Writing produces written content that becomes part of and supports a product's user experience. My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am passionate about creating content experiences that help IT Pros achieve more with technology. Please take a look at the before and after samples, and you be the judge.
 ---
 
 
 # Before & After Writing Samples
 
-I approach a before/after project with UX writing in mind, which is the production of written content that becomes part of, and supports, a product's user experience. My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am passionate about creating content experiences that help IT Pros achieve more with technology. Please take a look at the before and after samples, and you be the judge.
+I approach a before/after project with UX writing in mind, which produces written content that becomes part of and supports a product's user experience. My expertise is in taking the guesswork out of complex technical content for busy IT professionals. I am passionate about creating content experiences that help IT Pros achieve more with technology. Please take a look at the before and after samples, and you be the judge.
 
 
 <hr />
@@ -21,15 +21,15 @@ I approach a before/after project with UX writing in mind, which is the producti
 
 ## Group Policies
 >**Project:**  UX writing challenge   
->**Description:** Simplify, simplify, simplify.  Here I wanted to continue what I had been doing while I was an FTE with Microsoft - reworking the Mirosoft Edge Group Policies for the IT Pros.  <br />
+>**Description:** Simplify, simplify, simplify.  Here I wanted to continue what I had been doing while as an FTE with Microsoft - reworking the Microsoft Edge Group Policies for the IT Pros.  <br />
 >**Date of the rewrite:** January 8, 2019   
 
 #### Do not sync browser setting 
 
 ##### Original
-Prevent the "browser" group from syncing to and from this PC. This turns off and disables the "browser" group on the "sync your settings" page in PC settings. The "browser" group contains settings and info like history and favorites.
+Prevent the "browser" group from syncing to and from this PC. It turns off and disables the "browser" group on the "sync your settings" page in PC settings. The "browser" group contains settings and info like history and favorites.
 
-If you enable this policy setting, the "browser" group, including info like history and favorites, will not be synced.
+If you enable this policy setting, the "browser" group, including history and favorites, will not be synced.
 
 Use the option "Allow users to turn browser syncing on" so that syncing is turned off by default but not disabled.
 
@@ -37,7 +37,7 @@ If you do not set or disable this setting, syncing of the "browser" group is on 
 
 ##### Rewrite 
 
-By default, the "browser" group syncs automatically between user's devices allowing users to make changes. The "browser" group uses the Sync your Settings option in Settings to sync information such as history and favorites.
+By default, the "browser" group syncs automatically between users' devices, allowing users to make changes. In addition, the "browser" group uses the Sync your Settings option in Settings to sync information such as history and favorites.
 
 | Setting | Description |
 | ------- | ----------- |
@@ -100,8 +100,8 @@ With this policy, you can prevent Mobile Device Management (MDM) enrollment for 
 ## How-to Video Scripts
 
 >**Project:**  Work-related<br />
->**Description:**  I was provided with pre-recorded how-to videos with scripts to do the voice over, but some of the scripts needed work, and the video had no audio to reference.  I needed to be resourceful, so I found the user guide, which helped, but to write a quality script, I needed to watch the video many times to add context to the actions in the video. I also did the editing and final production of both audio (in Audacity) and video (Adobe Premiere Pro).  <br />
->**Date of project:** October/November 2019  
+>**Description:**  My client provided pre-recorded how-to videos with scripts to do the voice-over, but some of the scripts needed work, and the video had no audio to reference.  I needed to be resourceful, so I found the user guide, which helped, but to write a quality script, I needed to watch the video many times to add context to the actions in the video. I also edited and produced both audio (in Audacity) and video (Adobe Premiere Pro).  <br />
+>**Date of the project:** October/November 2019  
 
 
 #### Checksum Configuration
@@ -112,8 +112,7 @@ To create a system configuration checksum, go to "System", then "Toolkit", and t
 
 ##### Rewrite (w/final video)
 
-The system configuration checksum is a Nodegrid feature that creates a checksum of all your configuration files.  
-This gives you a quick and easy way to detect changes in the Nodegrid. 
+The system configuration checksum is a Nodegrid feature that creates a checksum of all your configuration files.  It gives you a quick and easy way to detect changes in the Nodegrid. 
 
 To create a system configuration checksum, go to **System>Toolkit** and then select **System Configuration Checksum**. 
 
@@ -142,11 +141,11 @@ A license is required for each managed device for Nodegrid access and control.
 
 The required license for each serial port of the Nodegrid is included with the product. 
 
-Some Nodegrid features, like Clustering and Docker containers require a license for activation. 
+Some Nodegrid features, like Clustering and Docker containers, require a license for activation. 
 
 At the top of the Nodegrid manager, click **System**.  
 
-Here is where all licenses enrolled in this Nodegrid displays with other information, like license key, expiration date, and application.   
+Here's where all licenses enrolled in this Nodegrid displays with other information, like license key, expiration date, and application.   
 
 To add a license, click **Add**.  
 
@@ -173,21 +172,21 @@ You can see the new license in the list.
 
 The iOS Mobile SDK version 3.8 is compatible with Xcode 10.2, Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5), and supported on iOS versions 10 through 12.
 
-**Important:** The iOS Mobile SDK version 3.8 is not compatible with simulators when running in an Objective-C project.
+**Important:** The iOS Mobile SDK version 3.8 is incompatible with simulators when running in an Objective-C project.
 
 ##### Bug Fixes
 
 - When the `unreadMessagesDividerEnabled` attribute equaled **false**, the conversation window did not jump/scroll to the latest messages received by the agent as expected.
 
-   By default, the Unread Message Divider separator appears in the message view.   When enabled, this feature does not prevent the badge or message text from displaying on the **Scroll to Bottom** button. Instead, the Unread Message Divider system message shows above the unread messages within the view of the user when returning to the conversation view. When disabled, the separator does not appear, and the unread message badge count displays on the **Scroll to Bottom** button. 
+   By default, the Unread Message Divider separator appears in the message view. However, when enabled, this feature does not prevent the badge or message text from displaying on the **Scroll to Bottom** button. Instead, the Unread Message Divider system message shows above the unread messages within the user's view when returning to the conversation view. When disabled, the separator does not appear, and the unread message badge count displays on the **Scroll to Bottom** button. 
 
-- Fallback to Signup Flow still existed. The bug prevented users from starting an authenticated conversation, and instead, the conversation started an unauthenticated visitor mode chat.
+- Fallback to Signup Flow still existed. However, the bug prevented users from starting an authenticated conversation, and instead, the conversation started an unauthenticated visitor mode chat.
 
 - Send Image (From Gallery) failed. The bug prevented users from uploading images larger than 3MB, resulting in a 'file too large' message. Version 3.8 of the Mobile SDK increased the image size limit to 5MB. 
 
-- **On iOS 12.2 Swift 5**, the conversation screen did not show the sent or received messages, and the margins appeared between messages. 
+- **On iOS 12.2 Swift 5**, the conversation screen didn't show the sent or received messages, and the margins appeared between messages. 
 
-- Accessibility: voice over read old conversations.  The bug prevented the voice over feature, when enabled, to read the current conversation, and instead, skipping back to past conversations. 
+- Accessibility: When enabled, the bug prevented the voice-over feature from reading the current conversation and skipping back to past conversations. 
 
 - When trying to reconnect with a JWT after the initial token expired, an INVALID JWT warning appeared and showed a black bar even though the conversation continued without error.  
 
