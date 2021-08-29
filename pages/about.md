@@ -7,7 +7,7 @@ permalink: /about/
 
 I have a vast array of writing, instructional design, visual design, video production, and voice-over. I'm a self-driven senior-level Content Developer/UX Writer with a solid technical background. In addition, I have a degree in computer networking and system administration with more than 20 years of experience in the industry. 
 
-My expertise is in taking the guesswork out of complex technical content for busy IT professionals.  I have helped organizations reduce, simplify, and restructure their content, ensuring quality and accuracy and increasing overall customer satisfaction rates. I'm also comfortable managing multiple projects and meeting schedule milestones and deadlines.
+My expertise is in taking the guesswork out of complex technical content for busy IT professionals.  I have helped organizations reduce, simplify, and restructure their content, ensuring quality and accuracy, increasing overall customer satisfaction rates. I'm also comfortable managing multiple projects and meeting schedule milestones and deadlines.
 
 ## Patricia McPhee 
 >[Sr. Technical Writer](../assets/pdf/resume-patricia-mcphee.pdf) \| [Voiceover Professional](https://soundcloud.com/patriciamcphee/tracks)<br /> 
