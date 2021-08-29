@@ -4,26 +4,26 @@ tags:
   - ux writing
   - tech writing
   - how-tos 
-description: How-to's are easy-to-follow instructions that explain step-by-step how to perform a task or use a specific feature in an app. Instructions are the way you do things, for example, making cookies includes the ingredients, how to mix the ingredients, and how and at what temperature you should make them. 
+description: How-to's are easy-to-follow instructions that explain step-by-step how to perform a task or use a specific feature in an app. Instructions are the way you do things. For example, making cookies includes the ingredients, mixing the ingredients, and how and at what temperature you should make them. 
 
  
 ---
 
 # How-to Writing Samples
 
-When I write how-to's, I use the [minimalism](https://www.technicallywriteit.com/the-art-of-saying-less-minimalism/) approach. How-to's are easy-to-follow, action-oriented instructions that explain step-by-step how to perform a task or use a specific feature in an app. Instructions are the way you do things, for example, making cookies includes the ingredients, how to mix the ingredients, and how and at what temperature you should make them. 
+When I write how-to's, I use the [minimalism](https://www.technicallywriteit.com/the-art-of-saying-less-minimalism/) approach. How-to's are easy-to-follow, action-oriented instructions that explain step-by-step how to perform a task or use a specific feature in an app. Instructions are the way you do things. For example, making cookies includes the ingredients, mixing the ingredients, and how and at what temperature you should make them. 
 
 <hr />
 
 ### Mobile SDK - Photo and file sharing
 
-Mobile SDK v3.9 introduces a feature for agents within the app to share photos or files with the consumers.  Agents can share a reference photo or photos of any product to visually guide consumers with product awareness, steps on how to use the product, or review comments of a product.  Agents can also share files to provide consumers with information such as mortgage documents, product catalog, or transaction details as requested by consumers. Agents can even share photos or files in a resolved conversation to resume the conversation with the consumer.
+Mobile SDK v3.9 introduces a feature for agents to share photos or files with the consumers within the app.  Agents can share a reference photo or photos of any product to visually guide consumers with product awareness, steps on how to use the product, or review comments of a product.  Agents can also share files to provide consumers with information such as mortgage documents, product catalogs, or transaction details as requested by consumers. Agents can even share photos or files in a resolved conversation to resume the conversation with the consumer.
 
-When the agent shares any supported file type, if the consumer isn't within the conversation view, they get a notification from the customer app only if the push notification is enabled. Otherwise, when the consumer returns, a thumbnail for the photo or file appears in the conversation window.
+When the agent shares any supported file type, if the consumer isn't within the conversation view, they get a notification from the customer app only if the push notification is enabled. Otherwise, a thumbnail for the photo or file appears in the conversation window when the consumer returns.
 
-- **Files:** the consumer can tap on it to view it full screen, share it through the default app on the device, or save it to a location on the device.
+- **Files:** the consumer can tap on it to view it full screen, share it through the default app on the device, or save it to a location.
 
-   The Android SDK supports opening any file types other than images through the picker application. The consumer can either long click on the thumbnail or open the file through the picker application to share and save the file.
+   The Android SDK supports opening any file types other than images through the picker application. The consumer can long-click on the thumbnail or open the file through the picker application to share and save.
 
    The iOS SDK supports the opening of all the supported file types on the device as per the iOS operating system.
 
@@ -48,17 +48,17 @@ When the agent shares any supported file type, if the consumer isn't within the 
 
 #### Notes and limitations
 
-- Photo sharing is two way (agent-to-consumer and consumer-to-agent). Still, file sharing is one way only (agent to consumer).
+- Photo sharing is two-way (agent-to-consumer and consumer-to-agent). Still, file sharing is one way only (agent to consumer).
 
   **For SDKs previous to 3.8:** Photo-sharing is one-way only (from consumer-to-agent, but not vice versa) and available for the Mobile Message SDK only.
 
 - If an attempt to view a photo is unsuccessful, an error icon covers the thumbnail.
 
-- If an attempt to download a file is unsuccessful, an error icon covers the thumbnail.  Upon retry, the file attempts to download again. Retry can be attempted as many times as possible (in case of a poor network) till the file download successfully.
+- If an attempt to download a file is unsuccessful, an error icon covers the thumbnail.  Upon retry, the file attempts to download again. Retry can be tried as many times as possible (in case of a poor network) till the file download successfully.
 
-- The consumer can return to a resolved conversation to view the photos, as long as the photos are part of the conversation history.
+- The consumer can return to a resolved conversation to view the photos, as long as the images are part of the conversation history.
 
-- If an agent sends an unsupported file, a message shows indicating the file type is not supported, and the agent should retry sending a supported file format. On the consumer side, they see an empty message with no content.
+- If an agent sends an unsupported file, a message indicates the file type is not supported, and the agent should retry sending a supported file format. On the consumer side, they see an empty message with no content.
 
 - For authenticated users, backgrounding the app while loading the photo does not get interrupted.
 
@@ -132,13 +132,13 @@ When the agent shares any supported file type, if the consumer isn't within the 
 
    The default compression rate is 50.
 
-   More advanced configurations (image size, compression rate, etc..) can be found under Photo Sharing in the Configuring the SDK section.
+   More advanced configurations, like image size, compression rate, can be found under Photo Sharing in the Configuring the SDK section.
 
 #### How photo sharing works - iOS
 
 ##### Step 1. Set the requirements for Custom View Controller Mode
 
-When using Custom View Controller Mode, you must remove the Conversation view when leaving the App. To avoid dismissing the View when presenting CSAT/SecureForms/PhotoSharing View, you should only dismiss the Conversation view if Moving From ParentView:
+When using Custom View Controller Mode, you must remove the Conversation view when leaving the App. To avoid dismissing the View when presenting CSAT/SecureForms/PhotoSharing View, you should only ignore the Conversation view if Moving From ParentView:
 
 ```swift
 
@@ -149,7 +149,7 @@ if (self.conversationQuery != nil && self.isMovingToParentViewController){
 }
 ```
 
-When using ViewController Mode, on the Navigation Bar Back Button, you can simply call **LPMessagingSDK.instance.removeConversation(self.conversationQuery!)**.
+When using ViewController Mode, on the Navigation Bar Back Button, you can call **LPMessagingSDK.instance.removeConversation(self.conversationQuery!)**.
 
 ##### Step 2. Add app privacy settings
 
@@ -175,7 +175,7 @@ When using ViewController Mode, on the Navigation Bar Back Button, you can simpl
 
 4. Save documents or photos to a directory belonging to the host app, enable the following flag with **caution**.  
   
-   >**Note:** A current limitation within the SDK causes the SQL files to be public if enabling this setting. Therefore, we suggest you do not enable this setting until a fix is available in a future release.  If this functionality is essential to your user flow, enable at the user's risk.
+   >**Note:** A current limitation within the SDK causes the SQL files to be public if enabling this setting. Therefore, we suggest you not enable this setting until a fix is available in a future release. However, if this functionality is essential to your user flow, enable it at the user's risk.
 
    LSSupportsOpeningDocumentsInPlace: Supports opening documents in place
 
@@ -201,7 +201,7 @@ When using ViewController Mode, on the Navigation Bar Back Button, you can simpl
 
    The default is 20. If exceeding the max value of photos or files, the SDK deletes the oldest file.
 
-2. Change the background color of attachment menu:
+2. Change the background color of the attachment menu:
 
    `LPConfig.defaultConfiguration.photosharingMenuBackgroundColor`
 
