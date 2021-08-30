@@ -40,7 +40,7 @@ My expertise is in taking the guesswork out of complex technical content for bus
 100% remote <br /> 
 May 2020 - Present 
 
-Work collaboratively with the [Azure VMware Solution](https://docs.microsoft.com/en-us/azure/azure-vmware/introduction) core engineering and UX Research teams to develop scenario and goal-based content. Conduct content audits of existing content to identify areas for improvement. Use qualitative and quantitative data to make data-driven decisions.
+Work collaboratively with the [Azure VMware Solution](https://docs.microsoft.com/en-us/azure/azure-vmware/introduction) core engineering and UX Research teams to develop scenario and goal-based content. Write and edit UX microcopy and UI strings. Conduct content audits of existing content to identify areas for improvement. Use qualitative and quantitative data to make data-driven decisions.
 
 
 #### Freelance Technical Writer and Voiceover Professional
@@ -69,7 +69,7 @@ Wrote SDK and API guides for mobile messaging app.
 Redmond, WA and remote <br /> 
 January 2018 to January 2019
 
-Worked collaboratively with the Microsoft Edge and Windows networking core teams. Conducted content audits to identify areas for potential improvement. Used qualitative and quantitative data to make data-driven decisions.
+Worked collaboratively with the Microsoft Edge and Windows networking core teams. Wrote and edited UX microcopy and UI strings. Conducted content audits to identify areas for potential improvement. Used qualitative and quantitative data to make data-driven decisions.
 
 #### Technical Writer, Contractor 
 **Oculus VR, *a Facebook company*** <br /> 
@@ -108,7 +108,7 @@ Worked collaboratively with video-on-demand and networking engineers to write st
 Boulder, CO <br /> 
 January 2014 to October 2014 
 
-Wrote release notes, configuration and troubleshooting guides, white papers, and solution briefs for the cloud storage solution.
+Wrote release notes, configuration and troubleshooting guides, white papers, and solution briefs for the cloud storage solution. Also, wrote and edited UX microcopy and UI strings.
 
 
 #### Technical Writer, Contractor 
@@ -123,7 +123,7 @@ Wrote installation, configuration, and API guides for a mobile money app.
 Remote <br /> 
 July 2012 to January 2013 
 
-Wrote design specifications and instructor-led training guides for enterprise planning and budgeting software.
+Wrote design specifications and instructor-led training guides for enterprise planning and budgeting software. Also, wrote and edited UX microcopy and UI strings.
 
 
 #### Sr. Technical Writer, Contractor
@@ -131,7 +131,7 @@ Wrote design specifications and instructor-led training guides for enterprise pl
 Broomfield, CO <br /> 
 August 2011 to July 2012 
 
-Wrote fiber optic provisioning procedures for field technicians.
+Wrote fiber optic provisioning procedures for field technicians. Also, wrote and edited UX microcopy and UI strings.
 
 
 ### Skills
