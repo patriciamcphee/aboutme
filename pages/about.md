@@ -7,8 +7,6 @@ permalink: /about/
 
 I have a vast array of writing, instructional design, visual design, video production, and voice-over experience. I'm a self-driven senior-level Content Developer/UX Writer with a solid technical background. In addition, I have a degree in computer networking and system administration with more than 20 years of experience in the industry. 
 
-I started my career as a graphic designer, and after eight years, I entered the computer industry as a help desk professional and system administrator. For the past 25 years, I've been immersed in technology, writing documentation on how to use a product or deploy it. As a result, I learned how to write around bad UI design.
-
 My expertise is in taking the guesswork out of complex technical content for busy IT professionals.  I have helped organizations reduce, simplify, and restructure their content, ensuring quality and accuracy, increasing overall customer satisfaction rates. 
 
 ## Patricia McPhee 
