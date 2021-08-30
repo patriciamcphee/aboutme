@@ -178,6 +178,10 @@ Wrote fiber optic provisioning procedures for field technicians. Also, wrote and
 
 ### Training and education
 
+#### UX Design Nanodegree
+[Udacity](https://www.udacity.com/course/ux-designer-nanodegree--nd578) <br />
+August 2021 - Present
+
 #### Voice over acting
 Such A Voice <br />
 Coach: [Jan Haley-Soule](https://www.imdb.com/name/nm1695988/) <br />
