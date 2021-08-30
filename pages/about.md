@@ -10,7 +10,7 @@ I have a vast array of writing, instructional design, visual design, video produ
 My expertise is in taking the guesswork out of complex technical content for busy IT professionals.  I have helped organizations reduce, simplify, and restructure their content, ensuring quality and accuracy, increasing overall customer satisfaction rates. 
 
 ## Patricia McPhee 
->[Sr. Technical Writer](../assets/pdf/resume-patricia-mcphee.pdf) \| [Voiceover Professional](https://soundcloud.com/patriciamcphee/tracks)<br /> 
+>[Sr. Content Developer/UX Writer](../assets/pdf/resume-patricia-mcphee.pdf) <br /> 
 > *I am passionate about creating content experiences that help IT Pros achieve more with the technology they use.*
 
 - [Accomplishments](#accomplishments)
