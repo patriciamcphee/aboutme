@@ -181,7 +181,7 @@ Wrote fiber optic provisioning procedures for field technicians. Also, wrote and
 #### UX Design Nanodegree
 [Udacity](https://www.udacity.com/course/ux-designer-nanodegree--nd578) <br />
 August 2021 - Present<br />
-*I started my career as a graphic designer, and after eight years, I entered the computer industry as a help desk professional and system administration. For the past 25 years, I've been immersed in technology, writing documentation on using a product or deploying it. As a result, I learned how to write around bad UI design.*  
+ 
 
 
 #### Voice over acting
