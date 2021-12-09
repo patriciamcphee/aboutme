@@ -34,11 +34,20 @@ My expertise is in taking the guesswork out of complex technical content for bus
 
 ### Work Experience
 
+#### Senior Technical Writer 
+
+**Keyavi Data Corp**<br /> 
+100% remote <br /> 
+October 2021 - present
+
+Work collaboratively with the product core engineering to develop user guides and a scenario-based deployment guide. Write and edit UX microcopy and UI strings. Conduct content audits of existing content to identify areas for improvement. 
+
+
 #### Technical Writer, Contractor 
 
 **Microsoft**<br /> 
 100% remote <br /> 
-May 2020 - Present 
+May 2020 - October 2021 
 
 Work collaboratively with the [Azure VMware Solution](https://docs.microsoft.com/en-us/azure/azure-vmware/introduction) core engineering and UX Research teams to develop scenario and goal-based content. Write and edit UX microcopy and UI strings. Conduct content audits of existing content to identify areas for improvement. Use qualitative and quantitative data to make data-driven decisions.
 
